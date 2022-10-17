@@ -1,2 +1,2 @@
 # git215_setup
-## Author: Cindy-Ann Roberts
+## Author: Cindy-Ann M Roberts
